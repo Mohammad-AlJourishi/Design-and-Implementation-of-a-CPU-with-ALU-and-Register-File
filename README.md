@@ -4,4 +4,4 @@ Custom CPU design using Verilog HDL, focusing on an ALU and Register File. It ex
 
 
 
-![Design](https://github.com/Mohammad-AlJourishi/Design-and-Implementation-of-a-CPU-with-ALU-and-Register-File/assets/125097449/4821c4e5-2124-4e43-91e7-f95ecece07ce)
+          ![Design](https://github.com/Mohammad-AlJourishi/Design-and-Implementation-of-a-CPU-with-ALU-and-Register-File/assets/125097449/4821c4e5-2124-4e43-91e7-f95ecece07ce)
